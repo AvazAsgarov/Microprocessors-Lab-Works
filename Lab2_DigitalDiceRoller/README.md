@@ -20,7 +20,7 @@ Simulate a digital dice using Arduino to demonstrate how a microcontroller proce
 - Serial monitor prints rolls, counts, and percentages  
 
 **Simulation:**  
-[Tinkercad link here]  
+Circuit simulated in Tinkercad (class account) — screenshot included below.
 
 **Preview:**  
 ![Circuit Screenshot](circuit_screenshot.png)  
